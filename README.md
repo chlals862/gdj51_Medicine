@@ -7,7 +7,7 @@
 <br>
 해당 의약품에 대한 리뷰 및 총 리뷰건수에 대한 의약품 효과 점수[highCharts] 그래프
 <br>
-각 리뷰에 대한 내용[ckeditor], 의약품 효과점수[highCharts] 그래프
+<h1>각 리뷰에 대한 내용[ckeditor], 의약품 효과점수[highCharts] 그래프</h1>
 <br>
 각 리뷰의 댓글 CRUD
 <br>
